@@ -1,0 +1,1 @@
+from retail_discovery.permissions.retail_discovery_app_model_permission import RetailDiscoveryAppModelPermission

@@ -1,0 +1,1 @@
+from retail_discovery.models.retail_type import RetailType

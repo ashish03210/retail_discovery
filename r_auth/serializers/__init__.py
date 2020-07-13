@@ -1,0 +1,4 @@
+from r_auth.serializers.content_type_serializer import ContentTypeSerializer
+from r_auth.serializers.permission_serializer import PermissionSerializer, GroupPermissionSerializer
+from r_auth.serializers.group_serializer import GroupSerializer, GroupListSerializer, EmployeeGroupSerializer
+from r_auth.serializers.user_serializer import UserSerializer, EmployeeSerializer
